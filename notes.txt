@@ -1,0 +1,21 @@
+1. folder structure
+
+2. wrote each section using chatgtp
+
+3. chose color scheme 
+
+4. designing nav bar
+we made header position stick to toppest position
+and z index means bring forward we added 1000 layers of z index so its on the top of all elements
+here 1rem=16px
+
+5. services
+repeat(3, 1fr); divides container into 3 sections
+transform: scale(1.1); this inc 10%(.1) size (origal size is 1 )
+
+6. testinomials
+flex: 0 0 calc((100% - 4rem) / 3); no shrink no flex and and divides container into 3 parts..they have gap of 2rem so for 3 containers it is 4rem which we subtracted
+and overflow hidden tells it not to display anything more than this.
+combo of both:
+top: 50%;  transform: translateY(-50%);
+CSS trick used to perfectly center an element vertically
