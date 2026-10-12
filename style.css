@@ -71,6 +71,24 @@ section {
     letter-spacing: 0.12em;
 }
 
+/* ---------- Typography ---------- */
+body {
+    font-family: "Inter", "Segoe UI", Arial, sans-serif;
+}
+
+h1, h2, h3,
+.logo,
+.footer-logo {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+button,
+input,
+select,
+textarea {
+    font-family: inherit;
+}
+
 /* ---------- Navigation ---------- */
 header {
     position: sticky;
