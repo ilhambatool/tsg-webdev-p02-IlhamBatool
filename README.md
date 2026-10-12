@@ -71,10 +71,10 @@ tsg-webdev-p02-IlhamBatool/
 Audit run on the live deployed page.
 
 | Performance | Accessibility | Best Practices | SEO |
-|:---:|:---:|:---:|:---:|
+|:72:|:89:|:100:|:100:|
 | `__` | `__` | `__` | `__` |
 
-Full report: `screenshots/lighthouse-report.png`
+Full report: `![alt text](image.png)`
 
 ---
 
