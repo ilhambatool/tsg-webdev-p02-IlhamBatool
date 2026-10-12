@@ -70,11 +70,8 @@ tsg-webdev-p02-IlhamBatool/
 
 Audit run on the live deployed page.
 
-| Performance | Accessibility | Best Practices | SEO |
-|:72:|:89:|:100:|:100:|
-| `__` | `__` | `__` | `__` |
+Full report: <img width="404" height="362" alt="image" src="https://github.com/user-attachments/assets/f9502d25-252a-4442-9eb2-b302dcdb657b" />
 
-Full report: `![alt text](image.png)`
 
 ---
 
