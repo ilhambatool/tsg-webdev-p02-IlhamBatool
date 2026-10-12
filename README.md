@@ -90,3 +90,11 @@ Full report: <img width="404" height="362" alt="image" src="https://github.com/u
 - Phone number and social-media links in the footer are placeholders for the fictional business.
 
 ---
+
+## 6. Responsive Screenshots
+Desktop (1280px+)	<img width="587" height="369" alt="image" src="https://github.com/user-attachments/assets/5d8690ee-86d7-492d-a318-34be164cbd30" />
+
+Tablet (768px)	<img width="282" height="375" alt="image" src="https://github.com/user-attachments/assets/ffc792f9-67eb-4f53-b9ef-2e3fd812c06e" />
+
+Mobile (375px)	<img width="164" height="359" alt="image" src="https://github.com/user-attachments/assets/de0141ca-e586-4328-be98-be4e34c2e236" />
+
