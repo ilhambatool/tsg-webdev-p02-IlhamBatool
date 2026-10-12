@@ -165,7 +165,7 @@ header {
     /* Replace hero.jpg with your chosen image filename later. */
     background-image:
         linear-gradient(rgba(41, 39, 37, 0.55), rgba(41, 39, 37, 0.55)),
-        url("assests/hero.jpg");
+        url("assests/hero.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
